@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/qsdev"><img src="https://api.daily.dev/devcards/bdf2f3b1e0194cc5837b7d810f9d03a3.png?r=3h2" width="400" alt="Quinnard Stewart's Dev Card"/></a>
+
 <!--
 **qjls/qjls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
